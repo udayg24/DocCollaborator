@@ -30,6 +30,9 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+/server/node_modules
+/server/.env
+/ios/Runner/GoogleService-Info.plist
 
 # Symbolication related
 app.*.symbols
